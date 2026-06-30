@@ -1,0 +1,4 @@
+split=cold_target
+RMSE=0.6353
+Pearson=0.6872
+CI=0.7266

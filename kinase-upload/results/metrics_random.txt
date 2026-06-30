@@ -1,0 +1,4 @@
+split=random
+RMSE=0.5067
+Pearson=0.8015
+CI=0.8070
